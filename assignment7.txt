@@ -1,0 +1,1 @@
+Put a loop around the existing loop in basicmoduleimport.py, that asks the user of they want to format a price. Give them Y or N options. If they do not put in a correct answer, ask them again and keep asking until one is given. Tally up the formatted dollars as you go. Only use break statements to get out of the loops.

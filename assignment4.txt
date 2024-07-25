@@ -1,0 +1,14 @@
+Part 1.
+Create an array to hold names.
+Allow the user to put in 5 guesses at a secret name
+Create a variable secretname that holds a secret name
+
+Create a function that uses a loop to go through each name. Check to see if the element in the array matches the secret name value. if it does, break out of the loop. return true if the secret name was found, false if not found. Name the function "checkNameGuesses(guesses, secretname)"
+
+Part 2. 
+Create a function that uses a loop to output each name in the list in reverse order from last element to first.
+
+write these results to a file.
+
+
+Call this function "reverseNamesAndWriteToFile(names)"
